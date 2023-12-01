@@ -29,11 +29,12 @@ Assassin's Creed: Brotherhood (2011) is a popular video game developed by <a hre
 | **Sequence 01**   | **Peace At Last**                    | _100%_   |
 | **Sequence 02**   | **A Wilderness of Tigers**           | _100%_   |
 | **Sequence 03**   | **The Fighter, The Lover And Thief** | _100%_   |
+| **Sequence 04**   | **Den of Thieves**                   | _100%_   |
 
 
 | Total SYNCH 🧮 |
 | --------------- |
-| 18.81%          |
+| 29.70%          |
 
 ## DNA 🧬
 
@@ -70,6 +71,19 @@ Assassin's Creed: Brotherhood (2011) is a popular video game developed by <a hre
 | **Sequence 03** | *Memory 02*  | **Between A Rock And A Hard Place**  | _Eliminate the Borgia Captain sending his troops to attack the Barracks so the mercenaries can focus entirely on the French assault._ | Kill only the Borgia Captain.                                                                               | 100%     | Rome           |
 | **Sequence 03** | *Memory 03*  | **High-Stakes Negotiation**          | _Deliver the money necessary to save the mistress of the Rosa in Fiore from the slave traders holding her captive._                   | Do not swim.                                                                                                | 100%     | Rome           |
 | **Sequence 03** | *Memory 04*  | **Collective Intelligence**          | _Discover the location of the Apple of Eden, Caterina Sforza, Cesare and Rodrigo Borgia._                                             |                                                                                                             | 100%     | Rome           |
+
+## SEQUENCE 04 ♾️ (100% SYNCH)
+| Sequences ♾️    | Memories 💭 | Mission Names 🎯            |  Description 📝                                                                                                          |  Full Synchronization 🪢                                 | SYNCH %  | Locations 📌 |
+| --------------- | ------------ | ------------------------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------- | -------- | ------------ |
+| **Sequence 04** | *Memory 01*  | **Castello Crasher**      | _Infiltrate Castel Sant'Angelo and assassinate Cesare and Rodrigo._                                                      | Do not be detected.                                     | 100%     | Rome         |
+| **Sequence 04** | *Memory 02*  | **Femme Fatale**          | _Obtain the key to Caterina's cell from Lucrezia Borgia._                                                                | Do not lose more than 10 health squares.                | 100%     | Rome         |
+| **Sequence 04** | *Memory 03*  | **The Burdens We Carry**  | _Escape from the Castello with Caterina and head for the stables._                                                       | Do not be detected.                                     | 100%     | Rome         |
+| **Sequence 04** | *Memory 04*  | **Guardian of ForlÌ**     | _Escort Caterina on horseback as she flees from the Castel Sant'Angelo._                                                 | Achieve a kill streak of at least 5 guards.             | 100%     | Rome         |
+| **Sequence 04** | *Memory 05*  | **Man of The People**     | _Fight with two citizens of Rome against the oppression of the Borgia and recruit them for the Assassin's Guild._        | Do not lose more than 5 health squares.                 | 100%     | Rome         |
+| **Sequence 04** | *Memory 06*  | **Serial Offender**       | _Malfatto hunts girls near the Tiber. Locate and kill him._                                                              | Kill your target using the Assassin Recruits.           | 100%     | Rome         |
+| **Sequence 04** | *Memory 07*  | **Human Cargo**           | _Kill your target using the Assassin Recruits._                                                                          | Kill your target using the Assassin Recruits.           | 100%     | Rome         |
+| **Sequence 04** | *Memory 08*  | **An Unexpected Visitor** | _Discover the source of the mysterious voice._                                                                           |                                                         | 100%     | Rome         |
+| **Sequence 04** | *Memory 09*  | **The Plan**              | _Meet with Machiavelli, Claudia, La Volpe and Caterina and propose a plan to defeat the Borgia._                         |                                                         | 100%     | Rome         |
 ---
 
 ## SECONDARY MEMORIES 💭
@@ -88,38 +102,110 @@ Assassin's Creed: Brotherhood (2011) is a popular video game developed by <a hre
 ---
 
 ## CRISTINA 👧
-| Memories 💭 | Mission Names 🎯   | Description 📝                                           |
+| Memories 💭 | Mission Names 🎯   | Description 📝                                             |
 | ------------ | ------------------- | -------------------------------------------------------- |
 | Firenze      | **A Second Chance** | _Follow Cristina to seek the renewal of her attentions._ |
+---
+
+## WAR MACHINES 💥 (25% SYNCH)
+| Mission Names 🎯 |  Description 📝                                                                                                                                |  Full Synchronization 🪢                                 | SYNCH %  | Locations 📌 |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- | -------- | ------------ |
+| **War Plans**    | _Kill the Templar Overseer to recover a map showing the location of one of the Leonardo's war machines._                                       | Send the Mercenaries into a fight.                      | 100%     | Rome         |
+| **Outgunned**    | _Leonardo's designs have resulted in a machine capable of cutting down 100 men in mere seconds. It cannot be left in the hands of the Borgia._ | Do not kill anybody before destroying the blueprints.   | 100%     | Colli Albani |
+---
+
+## GUILD CHALLENGES 🤝 ️
+
+## ASSASSINS GUILD 🤺
+| **RANK 5** |
+| ---------- |
+
+| Progress 📶 | Description 📝                                   |
+| --------- | -------------------------------------------------- |
+| **24/25** | _Assassin Recruits signaled during a fight._       |
+| **14/15** | _Arrow stroms._                                    |
+| **20/20** | _Assassin Recruits signaled to kill a target._     |
+| **4/5**   | _Assassin Recruits signaled within a Core Memory._ |
+| **0/5**   | _Recruits raised to the rank of Assassin._         |
+
+## MERCENARIES GUILD ⚔
+| **RANK 10** |
+| ----------- |
+
+| Progress 📶 | Description 📝                                       |
+| ----------- | ---------------------------------------------------- |
+| **1/10**    | _Mercenary groups sent to attack guards._            |
+| **4/5**     | _Scaffolds destroyed by thrown guards._              |
+| **16/25**   | _Brutes killed._                                     |
+| **4/25**    | _Papal guards killed._                               |
+| **1/25**    | _Guards killed while on horseback._                  |
+| **0/10**    | _Guards on horseback air assassinated._              |
+| **10/10**   | _Double Assassinations._                             |
+| **4/5**     | _Guards disarmed and killed with their own weapons._ |
+| **5/5**     | _guards withing 10 seconds._                         |
+| **7/10**    | _Streaks of at least 5 kills._                       |
+
+## COURTESANS GUILD 💃
+| **UNRANKED** |
+| ------------ |
+
+| Progress 📶 | Description 📝                                                                      |
+| ----------- | ----------------------------------------------------------------------------------- |
+| **9/10**    | _Courtesan groups sent to distract guards._                                         |
+| **9/10**    | _Enemies evaded using the crowd and other hide spots._                              |
+| **0/20**    | _Enemies stationed at Guard Post killed using the crossbow without being detected._ |
+| **4/10**    | _Horses belonging to guards commandeered without killing the rider._                |
+| **4/5**     | _Dead bodies hidden in wells or haystacks._                                         |
+| **14/15**   | _Guards poisoned._                                                                  |
+| **0/20**    | _Guards killed during a somke bomb attack._                                         |
+| **10/10**   | _Guards assassinated from behind._                                                  |
+| **4/5**     | _Guards assassinated from blend spots._                                             |
+
+## THIEVES GUILD 🦹‍♂️
+| **UNRANKED** |
+| ------------ |
+
+| Progress 📶     | Description 📝                                            |
+| --------------- | --------------------------------------------------------- |
+| **0/10**        | _Thief groups sent to lure guards._                       |
+| **0/1**         | _Sprint uninterrupted for 300 meters._                    |
+| **0/20**        | _Jump from a horse to a beam._                            |
+| **38/40**       | _Leaps of faith._                                         |
+| **0/1**         | _Perform a dive from a height of 25 meters._              |
+| **188/250** _f_ | _pickpocketed._                                           |
+| **0/1**         | _Glide a cumculative total of 500 meters with parachute._ |
+| **24/25**       | _Guards killed with a raged weapon._                      |
+| **0/5**         | _Guards air assassinated from a beam._                    |
+---
 
 ### VIEW POINTS 🦅 (**Total 24**) 
 
-| **Rome** | *13/24* |
-| -------- | ------ |
+| **Rome** | *16/24* |
+| -------- | ------- |
 
-| Locations 📌          | Collected 🫙 |
+| Locations 📌          | Collected 🫙   |
 | --------------------- | ------------- |
-| **Antico District**   | *2/8*         |
+| **Antico District**   | *3/8*         |
 | **Campagna District** | *3/6*         |
-| **Centro District**   | *8/10*        |
+| **Centro District**   | *10/10*       |
 ---
 
 ### BORGIA FLAGS 🚩 (**Total 101**)
 
-| **Rome** | *9/83* |
-| -------- | ------ |
+| **Rome** | *10/83* |
+| -------- | ------- |
 
-| Locations 📌          | Collected 🫙 |
+| Locations 📌          | Collected 🫙   |
 | --------------------- | ------------- |
 | **Antico District**   | *1/26*        |
 | **Campagna District** | *4/26*        |
-| **Centro District**   | *4/26*        |
+| **Centro District**   | *5/26*        |
 | **Vaticano District** | *0/5*         |
 
 | **Secret Locations** | *0/18* |
 | -------------------- | ------ |
 
-| Locations 📌               | Collected 🫙 |
+| Locations 📌               | Collected 🫙   |
 | -------------------------- | ------------- |
 | **Catacombe Di Roma**      | *0/3*         |
 | **Terme Di Traiano**       | *0/3*         |
@@ -134,7 +220,7 @@ Assassin's Creed: Brotherhood (2011) is a popular video game developed by <a hre
 | **Rome** | *3/10* |
 | -------- | ------ |
 
-| Locations 📌          | Collected 🫙 |
+| Locations 📌          | Collected 🫙   |
 | --------------------- | ------------- |
 | **Antico District**   | *0/3*         |
 | **Campagna District** | *1/3*         |
@@ -143,14 +229,14 @@ Assassin's Creed: Brotherhood (2011) is a popular video game developed by <a hre
 
 ### TREASURES 🎁 (**Total 144**)
 
-| **Rome** | *11/144* |
+| **Rome** | *20/144* |
 | -------- | -------- |
 
-| Locations 📌          | Collected 🫙 |
+| Locations 📌          | Collected 🫙   |
 | --------------------- | ------------- |
-| **Antico District**   | *1/48*        |
-| **Campagna District** | *4/40*        |
-| **Centro District**   | *6/47*        |
+| **Antico District**   | *5/48*        |
+| **Campagna District** | *6/40*        |
+| **Centro District**   | *9/47*        |
 | **Vaticano District** | *0/9*         |
 ---
 
@@ -160,7 +246,7 @@ Assassin's Creed: Brotherhood (2011) is a popular video game developed by <a hre
 | ARMOR 🛡️ |
 | --------- |
  
-| Names 🎯                  | Healths ❤️ | Resistance 🧱 |
+| Names 🎯                  | Healths ❤️ | Resistance 🧱   |
 | ------------------------- | ----------- | ------------- |
 | **Roman Spaulders**       | ♦           | ☀☀☀  |
 ---
@@ -169,40 +255,41 @@ Assassin's Creed: Brotherhood (2011) is a popular video game developed by <a hre
 | ----------- |
 
 
-| Names 🎯              | Damage 💥 | Speed 🏃     | Deflect 🗡 | Description 📝 |
+| Names 🎯              | Damage 💥  | Speed 🏃      | Deflect 🗡 | Description 📝  |
 | --------------------- | ---------- | ------------ | ----------- | ----------- |
 | **Hidden Blade**      |            |              |             | _Worn by the ancient Assassins, the hidden blade can easily puncture an enemy's throat without drawing any attention from outsiders. Use it for stealth attacks and to administer poison to your enemies. Attached, is a small pistol designed by Leonard da Vinci that fires with deadly accuracy when aimed correctly._ |
 | **Stiletto**          | ☀         | ☀            | ☀☀         |  |
 | **Common Sword**      | ☀         | ☀☀           | ☀☀         |  |
 | **Fists**             | ☀         | ☀☀☀☀☀      | ☀           |  |
+| **Double Blade**      |            |              |              | _Envisioned by Altaïr in the Codex, two hidden blades allow for multiple, simultaneous stealth kills_ |
 ---
 
 | SUPPLIES 📦 |
 | ------------ |
  
-| Names 🎯            | Quantities 🔢 | Description 📝                                                                                                                                                                                                                          |
+| Names 🎯            | Quantities 🔢 | Description 📝                                                                                                                                                                                                                         |
 | ------------------- | ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Throwing Knives** | *2/5*         | _Specially crafted to be thrown, these blades are balanced so that they can hit enemies from afar. The number of throwing knives necessary to fell an enemy depends upon their rank. Throwing knives can be used for stealth attacks._ |
+| **Throwing Knives** | *5/5*         | _Specially crafted to be thrown, these blades are balanced so that they can hit enemies from afar. The number of throwing knives necessary to fell an enemy depends upon their rank. Throwing knives can be used for stealth attacks._ |
 | **Poison**          | *5/5*         | _Doctors can provide you with a slow-acting poison that will induce madness in a target, followed by death. You can use poison to create a commotion that will draw the attention of nearby guards._                                   |
 | **Bullets**         | *10/10*       | _Renaissance-era bulltets (small lead balls) can be used inside Leaonardo's specially crafted pistol. They will easily penetrate armor and kill any enemy. To improve accuracy, aim for a longer period of time._                      |
 |       |          |  |
-| **Medicine**        | *4/5*         | _Doctors can sell you smelling slats that oll desensitize you to pain, helping you to recover from your injuries. Try to always keep a good number of smelling salts on hand, because you never know when you'll need them._           |
+| **Medicine**        | *5/5*         | _Doctors can sell you smelling slats that oll desensitize you to pain, helping you to recover from your injuries. Try to always keep a good number of smelling salts on hand, because you never know when you'll need them._           |
 ---
 
 | ITEMS 🏷️ |
 | --------- |
  
-| Names 🎯           | Quantities 🔢 | Description 📝                                                                                           |
+| Names 🎯           | Quantities 🔢 | Description 📝                                                                                             |
 | ------------------- | ------------- | --------------------------------------------------------------------------------------------------------- |
 | **Keys of Romulus** | *1*           | _Keys recovered from the Scrolls of Romulus which also contain mysterious pages from an unknown journal._ |
-| **Borgia Flags**    | *9*           | _Remove the flags of the Borgia from Rome._                                                               |
+| **Borgia Flags**    | *10*          | _Remove the flags of the Borgia from Rome._                                                               |
 | **Feathers**        | *0*           | _Collect feathers in memory of family lost._                                                              |
 ---
 
 | OUTFITS 🕴🏻 |
 | ----------- |
  
-| Names 🎯                    | Description 📝 |
+| Names 🎯                    | Description 📝  |
 | --------------------------- | --------------- |
 | **Plain Cape**              | _The Plain Cape is merely cosmetic. White worn, guards will respond to any criminal behavior and notoriety will increase or decrease normally._ |
 |                             |  |
@@ -216,29 +303,29 @@ Assassin's Creed: Brotherhood (2011) is a popular video game developed by <a hre
 ## EXTRA ↪
 | Pouch 💵      | Bank 🏦           |
 | :-----------: | ----------------- |
-| **14252**_f_  | **4490/40000**_f_ |
+| **54976**_f_  | **0/60000**_f_    |
 
 ## RECORD BOOK 📚
 
-### SUMMARY 📜 (**Vault Income / 20 min**)
+### SUMMARY 📜 (**Vault Income / 20 min**) (COMPLETION 46%)
 | Shops       | Renovations | Landmarks | Total Income / 20 min |
 | ----------- | ----------- | --------- | --------------------- |
-| **3200**_f_ | **648**_f_  | **0**_f_  | **3848**_f_           |
+| **6420**_f_ | **1152**_f_ | **40**_f_ | **7612**_f_           |
 -----
 
 ### SHOPS 🏪 (**Vault Income / 20 min**)
 | Shops 🏢         | Renovations 👷🏻‍♂️ | Income 💰   |
 | ---------------- | --------------- | ----------- |
-| **Blacksmith**   | _9/17_          | **1768**_f_ |
-| **Doctor**       | _4/15_          | **208**_f_  |
-| **Tailor**       | _1/12_          | **8**_f_    |
-| **Art Merchant** | _1/10_          | **8**_f_    |
-| **Bank**         | _6/10_          | **1208**_f_ |
-| **Total**        |                 | **3200**_f_ |
+| **Blacksmith**   | _13/17_         | **2648**_f_ |
+| **Doctor**       | _6/15_          | **608**_f_  |
+| **Tailor**       | _5/12_          | **808**_f_  |
+| **Art Merchant** | _4/10_          | **668**_f_  |
+| **Bank**         | _8/10_          | **1688**_f_ |
+| **Total**        |                 | **6420**_f_ |
 -----
 
 ### RENOVATIONS 👨🏻‍🔧 (**Vault Income / 20 min**)
-| Shops 🏢                 | Renovations 👷🏻‍♂️ | Income 💰   |
+| Shops 🏢                 | Renovations 👷🏻‍♂️ | Income 💰  |
 | ------------------------ | -------------- | ----------- |
 | **Rosa In Fiore**        | _1/1_          | **56**_f_   |
 | **Courtesan Building**   | _0_            | **0**_f_    |
@@ -246,28 +333,35 @@ Assassin's Creed: Brotherhood (2011) is a popular video game developed by <a hre
 | **Thief Building**       | _0_            | **0**_f_    |
 | **Barracks**             | _1/1_          | **48**_f_   |
 | **Mercenaries Building** | _0_            | **0**_f_    |
-| **Horse Stables**        | _1/9_          | **8**_f_    |
-| **Tunnel Entrance**      | _9/18_         | **488**_f_  |
+| **Horse Stables**        | _2/9_          | **128**_f_  |
+| **Tunnel Entrance**      | _13/18_        | **488**_f_  |
 | **Broken Aqueduct**      | _0/8_          | **0**_f_    |
-| **Total Income**         |                | **648**_f_  |
+| **Total Income**         |                | **1152**_f_ |
+-----
+
+### LANDMARKS ⟟ (**Vault Income / 20 min**)
+| Landmarks ⟟             | Income 💰   |
+| ----------------------- | ----------- |
+| **Arco Di Tito**        | **40**_f_   |
+| **Total Income**        | **40**_f_   |
 -----
 
 ### ECONOMY 💱 (**Discount Earned**)
-| Shops 🏢         | Discount Earned 🔖 |
+| Shops 🏢         | Discount Earned 🔖  |
 | ---------------- | ------------------- |
-| **Blacksmith**   | _5%_                |
+| **Blacksmith**   | _10%_               |
 | **Doctor**       | _5%_                |
-| **Tailor**       | _0%_                |
-| **Art Merchant** | _0%_                |
+| **Tailor**       | _5%_                |
+| **Art Merchant** | _5%_                |
 
-| Total Florins 🧮 | Income 💰    |
-| ----------------- | ------------ |
-| **Earned**        | **44599**_f_ |
-| **Spent**         | **30470**_f_ |
+| Total Florins 🧮   | Income 💰     |
+| ----------------- | ------------- |
+| **Earned**        | **121156**_f_ |
+| **Spent**         | **89080**_f_  |
 -----
 
 ### ROME GLOBAL ECONOMY 🌏 (**Earning / Investments**)
-| Shops 🏢         | Investments 🏦          |
+| Shops 🏢         | Investments 🏦           |
 | ---------------- | ------------------------ |
 | **Blacksmith**   | **2369**_f_/ **2248**_f_ |
 | **Doctor**       | **0**_f_/ **0**_f_       |
@@ -275,7 +369,7 @@ Assassin's Creed: Brotherhood (2011) is a popular video game developed by <a hre
 | **Art Merchant** | **0**_f_/ **0**_f_       |
 | **Bank**         | **910**_f_/ **770**_f_   |
 
-| Total Florins 🧮 | Income 💰   |
+| Total Florins 🧮 | Income 💰     |
 | ---------------- | ------------ |
 | **Earned**       | **3279**_f_  |
 | **Invested**     | **3018**_f_  |
